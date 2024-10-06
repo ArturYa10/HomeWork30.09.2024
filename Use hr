@@ -19,7 +19,7 @@ SELECT
 * 
 FROM locations
 WHERE postal_code LIKE '99%' 
-   OR postal_code LIKE '%99'; -- ?
+   OR postal_code LIKE '%99'; 
 
 SELECT 
 * 
